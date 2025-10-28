@@ -1,0 +1,1 @@
+-- Sintaxe Window Function
